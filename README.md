@@ -67,11 +67,14 @@ pip install -r requirements.txt
 jupyter notebook qa_rag_climate_fever.ipynb
 ```
 or use google colab 
+
 2. Ensure the runtime is set to GPU or TPU for faster training and inference.
+
 3. Follow the steps in the notebook to:
   - Load the Climate Fever dataset.
   - Configure the RAG model using Haystack.
   - Query the model for detailed answers to climate-related questions.
+
 ## Dependencies
 haystack (farm-haystack[colab] for google colab)
 datasets
