@@ -77,8 +77,11 @@ or use google colab
 
 ## Dependencies
 haystack (farm-haystack[colab] for google colab)
+
 datasets
+
 jupyter
+
 Install them using the requirements.txt file.
 
 ## License
